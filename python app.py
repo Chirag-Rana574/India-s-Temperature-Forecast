@@ -24,9 +24,9 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Data loader and preparation
-max_temp = pd.read_csv('/content/TEMP_ANNUAL_MAX_1901-2021.csv')
-min_temp = pd.read_csv('/content/TEMP_ANNUAL_MIN_1901-2021.csv')
-mean_temp = pd.read_csv('/content/TEMP_ANNUAL_MEAN_1901-2021.csv')
+max_temp = pd.read_csv('/TEMP_ANNUAL_MAX_1901-2021.csv')
+min_temp = pd.read_csv('/TEMP_ANNUAL_MIN_1901-2021.csv')
+mean_temp = pd.read_csv('/TEMP_ANNUAL_MEAN_1901-2021.csv')
 
 seasons = ['JAN-FEB', 'MAR-MAY', 'JUN-SEP', 'OCT-DEC']
 
