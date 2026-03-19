@@ -1,4 +1,4 @@
-# India's-Temperature-Forecast
+# Analysing Indian Climate over a Century
 # 🌡️ India Climate Fluctuations: A Century of Change (1901-2021)
 
 ![Project Header](Screenshots/tempgif.gif)
